@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "246405522077",
+    "project_id": "rest-hell",
+    "storage_bucket": "rest-hell.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246405522077:android:aa3c410cee57412f0eaa74",
+        "android_client_info": {
+          "package_name": "com.example.rest_hell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246405522077-selo738sgien4ga6qtstekeaf0ktm65j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rest_hell",
+            "certificate_hash": "ce8fa51c78512b38c83c707f49bb1d3872a1db96"
+          }
+        },
+        {
+          "client_id": "246405522077-l044huqra55hafps1ivsbmjmo4hhapm2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUF3UWMpakg1yENr93QmELaI6qPynW7BM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246405522077-l044huqra55hafps1ivsbmjmo4hhapm2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
